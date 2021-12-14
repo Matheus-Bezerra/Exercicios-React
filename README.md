@@ -23,7 +23,16 @@
 <br>
 
 - Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React">Funcionamento e poder do React</a>
+
 <hr>
+
+### Módulo 2: React Hooks
+
+<br>
+
+- Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio1">useState</a>
+
+- Exercício Javascript 02 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio2">useEffect</a>
 
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
