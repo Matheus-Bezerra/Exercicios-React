@@ -1,3 +1,4 @@
+// Crie options reativas no React
 const App = () => {
   const [select, setSelect] = React.useState('');
   return (
