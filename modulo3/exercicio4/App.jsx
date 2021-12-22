@@ -1,4 +1,4 @@
-// Crie um textarea reativo no React
+// Crie um input radio reativo no React
 
 const App = () => {
   const [radio, setRadio] = React.useState(null);
