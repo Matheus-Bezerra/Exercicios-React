@@ -31,8 +31,11 @@
 <br>
 
 - Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio1">useState</a>
-
 - Exercício Javascript 02 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio2">useEffect</a>
+- Exercício Javascript 03 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio3">useRef</a>
+- Exercício Javascript 04 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio4">useMemo e useCallback</a>
+- Exercício Javascript 05 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio5">useContext</a>
+- Exercício Javascript 06 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio6">Custom Hooks</a>
 
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
