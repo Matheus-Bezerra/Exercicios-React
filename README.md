@@ -22,7 +22,7 @@
 
 <br>
 
-- Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React">Funcionamento e poder do React</a>
+- Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React" target=_blank>Funcionamento e poder do React</a>
 
 <hr>
 
@@ -30,12 +30,24 @@
 
 <br>
 
-- Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio1">useState</a>
-- Exercício Javascript 02 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio2">useEffect</a>
-- Exercício Javascript 03 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio3">useRef</a>
-- Exercício Javascript 04 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio4">useMemo e useCallback</a>
-- Exercício Javascript 05 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio5">useContext</a>
-- Exercício Javascript 06 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio6">Custom Hooks</a>
+- Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio1" target=_blank>useState</a>
+- Exercício Javascript 02 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio2" target=_blank>useEffect</a>
+- Exercício Javascript 03 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio3" target=_blank>useRef</a>
+- Exercício Javascript 04 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio4" target=_blank>useMemo e useCallback</a>
+- Exercício Javascript 05 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio5" target=_blank>useContext</a>
+- Exercício Javascript 06 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo2/exercicio6" target=_blank>Custom Hooks</a>
+
+<hr>
+
+### Módulo 3: Formulários
+
+<br>
+
+- Exercício Javascript 01 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio1" target=_blank>Input</a>
+- Exercício Javascript 02 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio3" target=_blank>Textarea</a>
+- Exercício Javascript 03 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio3" target=_blank>Select</a>
+- Exercício Javascript 04 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio4" target=_blank>Radio</a>
+- Exercício Javascript 05 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio5" target=_blank>Checkbox</a>
 
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
