@@ -48,6 +48,10 @@
 - Exercício Javascript 03 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio3" target="_blank">Select</a>
 - Exercício Javascript 04 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio4" target="_blank">Radio</a>
 - Exercício Javascript 05 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio5" target="_blank">Checkbox</a>
+- Exercício Javascript 06 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio6" target="_blank">Componentes Input</a>
+- Exercício Javascript 07 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio7" target="_blank">Componentes Select</a>
+- Exercício Javascript 08 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/exercicio8" target="_blank">Componentes Radio</a>
+- Exercício Javascript 09 - <a href="https://github.com/Matheus-Bezerra/Exercicios-React/tree/main/modulo3/Exercicio9" target="_blank">Componentes Checkbox</a>
 
 <br>
 Feito por Matheus Bezerra, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/matheus-bezerra04/">Matheus-Bezerra04</a>
